@@ -15,7 +15,7 @@ I'm currently pursuing a full-time **Master of Applied AI at Deakin University**
 
 ## 💻 Expertise
 
-* **Languages:** Python, TypeScript, C#
+* **Languages:** Python, TypeScript, Golang, C#
 * **Backend:** FastAPI, Express, Django, .NET
 * **Frontend:** React, Next.js, Tailwind CSS
 * **Databases:** PostgreSQL, MongoDB, Redis, DuckDB, ClickHouse, Pinecone
